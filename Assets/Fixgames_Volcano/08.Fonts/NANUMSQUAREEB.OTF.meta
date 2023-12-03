@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: dedff9bddcde62e4d87530bc0713a679
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NanumSquareOTF
+  fontNames:
+  - NanumSquareOTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7a0602b9555f0734086b32cf9779e0c6, type: 3}
+  - {fileID: 12800000, guid: 7ea5ecc9cea4a8743afe54d78c97e845, type: 3}
+  - {fileID: 12800000, guid: d407826efac6afd4e8e0ea3753136556, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: fixgames_volcano_assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 27e86d2c331b1a34fb251d10874c2740
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _emiss_2_3: {fileID: 2800000, guid: 5d159edcb3f7bfd4288743f6f5bdcf0c, type: 3}
+  - _FireTexture: {fileID: 2800000, guid: f7e96904e8667e1439548f0f86389447, type: 3}
+  - _RockSediment_mask3: {fileID: 2800000, guid: eee1a3e7e1bcad6488092f2d69a2b733,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: fixgames_volcano_assetbundle
+  assetBundleVariant: 
